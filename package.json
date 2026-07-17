@@ -1,0 +1,9 @@
+{
+  "name": "ddos-proxy-server",
+  "version": "1.0.0",
+  "description": "DDoS Proxy Server for Render",
+  "main": "proxy-server.js",
+  "scripts": {
+    "start": "node proxy-server.js"
+  }
+}
